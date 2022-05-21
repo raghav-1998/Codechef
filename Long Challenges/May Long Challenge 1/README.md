@@ -1,0 +1,1 @@
+This directory contains code of problems asked in Codechef May Long Challenge-1 2022.
